@@ -4,7 +4,7 @@
 
 **Running title**: People living with HIV on suppressive antiretroviral therapy shed multi-drug resistant pneumococci.
 
-**Background**: People living with HIV (PLHIV) on antiretroviral therapy (ART) are reported to have over two-fold higher _Streptococcus pneumoniae _(_S. pneumoniae_) carriage prevalence than their HIV-uninfected counterparts. Pneumococcal carriage is an important risk factor for invasive pneumococcal disease (IPD), antimicrobial resistance (AMR) emergence, and transmission. We therefore aimed to assess pneumococcal carriage density, shedding and AMR profiles in PLHIV on ART for more than 1 year (PLHIV>1y) compared to HIV-uninfected participants.
+**Background**: People living with HIV (PLHIV) on antiretroviral therapy (ART) are reported to have over two-fold higher _Streptococcus pneumoniae_ (_S. pneumoniae_) carriage prevalence than their HIV-uninfected counterparts. Pneumococcal carriage is an important risk factor for invasive pneumococcal disease (IPD), antimicrobial resistance (AMR) emergence, and transmission. We therefore aimed to assess pneumococcal carriage density, shedding and AMR profiles in PLHIV on ART for more than 1 year (PLHIV>1y) compared to HIV-uninfected participants.
 
 **Methods**: Asymptomatic PLHIV>1y and HIV-uninfected participants were recruited from ART and HIV Testing clinics in Blantyre, Malawi. Participants were followed up on days 3, 7, 14, 21 and 28 for the first month, and then monthly for 5 months. Pneumococcal carriage and shedding were measured using standard bacterial culture, while AMR profiling was done using disk diffusion and E-test.
 
