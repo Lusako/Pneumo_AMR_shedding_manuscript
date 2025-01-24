@@ -1,6 +1,6 @@
 **High likelihood of multi-drug-resistant pneumococcal shedding among adults living with HIV on suppressive antiretroviral therapy in Malawi**
 
-**Authors**: Lusako L. Sibale, Joseph Phiri, Newton Kalata, Tinashe Nyazika, Chrispin Chaguza, Stephanie W. Lo, Ndaona Mitole, Alice Kalirani, Mercy Khwiya, Gift Sagawa, Deus Thindwa, Todd D Swarthout, Neil French, Ken Malisita, Arox Kamng’ona, Daniela M Ferreira, Stephen D. Bentley, Robert S. Heyderman, Brenda A. Kwambana-Adams, Kondwani C. Jambo.
+**Authors**: Lusako L. Sibale, Joseph Phiri, Newton Kalata, Ndaona Mitole, Tinashe Nyazika, Alice Kalirani, Mercy Khwiya, Gift Sagawa, Chrispin Chaguza, Stephanie W. Lo, Deus Thindwa, Todd D Swarthout, Neil French, Ken Malisita, Arox Kamng’ona, Daniela M Ferreira, Stephen D. Bentley, Robert S. Heyderman, Brenda A. Kwambana-Adams, Kondwani C. Jambo.
 
 **Running title**: People living with HIV on suppressive antiretroviral therapy shed multi-drug resistant pneumococci.
 
